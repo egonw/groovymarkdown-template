@@ -24,7 +24,7 @@ files.each { file ->
       if (line.contains("<code>")) {
         start = line.indexOf("<code>")
         end = line.indexOf("</code>")
-        text = line.substring(start + 8, end)
+        text = line.substring(start + 6, end)
         println "" + text + suffix
       } else if (line.contains("<out>")) {
         start = line.indexOf("<out>")
