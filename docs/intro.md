@@ -25,3 +25,9 @@ Aspirin has 13 atoms.
 
 You can include references by proviing the Wikidata item identifier
 for the paper, e.g. like [<a href="#citeref1">1</a>].
+
+## References
+
+1. <a name="citeref1"></a>Willighagen L, Willighagen LG. Citation.js: a format-independent, modular bibliography tool for the browser and command line. PeerJ Comput Sci. 2019 Aug 12;5:e214.  doi:[10.7717/PEERJ-CS.214](https://doi.org/10.7717/PEERJ-CS.214) ([Scholia](https://tools.wmflabs.org/scholia/doi/10.7717/PEERJ-CS.214))
+
+
